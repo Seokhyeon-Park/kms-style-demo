@@ -1,0 +1,19 @@
+.Header {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 16px;
+  background-color: #0070c9;
+  color: #fff;
+}
+
+.Logo {
+  width: 40px;
+  height: 40px;
+  margin-right: 12px;
+}
+
+.CompanyName {
+  font-size: 18px;
+  margin: 0;
+}
